@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ComponentesUI</string>
+    <string name="android_text">hola bola</string>
+    <string name="xxxx">dasd</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="android_edittext_example">Android EditText Example</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="register">Register</string>
+
+    <string name="selected_item">You have selected:</string>
+    <string-array name="lenguajes">
+        <item>Seleccione</item>
+        <item>Ruby</item>
+        <item>Java</item>
+        <item>.NET</item>
+        <item>Python</item>
+        <item>PHP</item>
+        <item>JavaScript</item>
+        <item>GO</item>
+    </string-array>
+</resources>
